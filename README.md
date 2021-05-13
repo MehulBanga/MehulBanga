@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mehul</h1>
-[![Mehul Banga shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://stfumehul.github.io/Mehul-Banga/)
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://stfumehul.github.io/Mehul-Banga/)
 
 <!--
 **stfumehul/stfumehul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His/Him <br>
 - ⚡ Fun fact: There are 10 types of people in this world, those who understand binary and those who dont. <br>
 
-
+<br>
 ### Connect with me:
 
 [<img align="left" alt="Mehul_Banga.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -19,6 +19,7 @@
 
 <br>
 ### Languages and Tools:
+<br>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a> 
