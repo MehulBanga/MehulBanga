@@ -1,5 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mehul</h1>
-[![Website](https://img.shields.io/website?label=stfumehul.com&style=for-the-badge&url=https%3A%2F%2Fstfumehul.com)](https://stfumehul.github.io/Mehul-Banga/)
+[![Mehul Banga shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://stfumehul.github.io/Mehul-Banga/)
+
 <!--
 **stfumehul/stfumehul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
