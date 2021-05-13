@@ -17,6 +17,7 @@
 [<img align="left" alt="Mehul_Banga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mehul_Banga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br>
 
 ### Languages and Tools:
 
