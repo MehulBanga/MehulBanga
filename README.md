@@ -4,12 +4,12 @@
 <!--
 **stfumehul/stfumehul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 💬 Ask me about Python, C++, Web Development, Deep Learning. <br>
-- 📫 How to reach me: mehulbanga2002@gmail.com <br>
-- 😄 Pronouns: He/His/Him <br>
-- ⚡ Fun fact: There are 10 types of people in this world, those who understand binary and those who dont. <br>
+- 💬 Ask me about Python, C++, Web Development, Deep Learning. 
+- 📫 How to reach me: mehulbanga2002@gmail.com 
+- 😄 Pronouns: He/His/Him 
+- ⚡ Fun fact: There are 10 types of people in this world, those who understand binary and those who dont. 
 
-<br>
+
 ### Connect with me:
 
 [<img align="left" alt="Mehul_Banga.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,9 +17,9 @@
 [<img align="left" alt="Mehul_Banga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mehul_Banga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br>
+
 ### Languages and Tools:
-<br>
+
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a> 
