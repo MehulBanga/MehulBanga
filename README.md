@@ -38,7 +38,9 @@
 <a href="https://unity3d.com)
 " target="_blank"> <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)" alt="Unity" /> </a> 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=stfumehul&label=Profile%20views&color=0e75b6&style=flat" alt="Mehul" /> </p>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=stfumehul&label=Profile%20views&color=0e75b6&style=flat" alt="Mehul" />
+</p>
 <!--
 Links
 -->
