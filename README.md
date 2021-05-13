@@ -18,10 +18,9 @@
 [<img align="left" alt="Mehul_Banga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=stfumehul&label=Profile%20views&color=0e75b6&style=flat" alt="Mehul" />
-</p>
-<br>
+
+
+
 ### Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a> 
@@ -41,6 +40,10 @@
 <a href="https://unity3d.com)
 " target="_blank"> <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)" alt="Unity" /> </a> 
 
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=stfumehul&label=Profile%20views&color=0e75b6&style=flat" alt="Mehul" />
+</p>
+<br>
 <!--
 Links
 -->
